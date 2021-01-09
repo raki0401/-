@@ -79,6 +79,7 @@ img {
   border: 1px solid $primary-color;
   display: inline-block;
   padding: 10px 54px;
+  background-color: #fff;
   transition: color .5s, background-color .5s;
   
   &.-active{

@@ -83,6 +83,7 @@ img {
   border: 1px solid #3EA1D1;
   display: inline-block;
   padding: 10px 54px;
+  background-color: #fff;
   -webkit-transition: color .5s, background-color .5s;
   transition: color .5s, background-color .5s;
 }
@@ -845,6 +846,10 @@ textarea {
     top: 0;
     right: -8px;
   }
+}
+
+.contact-item-title2 {
+  padding-left: 10px;
 }
 
 .contact-item-kome {
