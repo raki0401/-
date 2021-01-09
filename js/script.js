@@ -27,7 +27,7 @@ $(function(){
 //google form
 $(function(){
 
-  let form = $('#js-form')
+  let $form = $('#js-form');
   $form.submit(function(e) { 
     $.ajax({ 
      url: $form.attr('action'), 
