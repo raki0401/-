@@ -1009,6 +1009,12 @@ textarea {
   color: #f00;
 }
 
+@media screen and (max-width: 767px) {
+  .contact-message {
+    font-size: 14px;
+  }
+}
+
 /*========================================
        # footer
 ========================================*/
